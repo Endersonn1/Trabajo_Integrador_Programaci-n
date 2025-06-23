@@ -9,7 +9,7 @@ Este proyecto implementa una agenda de contactos en Python y permite comparar el
 
 # 📁 Estructura del proyecto
 
--datos.py: contiene la lista de contactos (`agenda`) con 300 nombres reales únicos.
+-datos.py: contiene la lista de contactos (agenda) con 300 nombres reales únicos.
 
 -funciones.py: contiene las funciones:
    ·obtener_nombre(): extrae el nombre de un contacto.
