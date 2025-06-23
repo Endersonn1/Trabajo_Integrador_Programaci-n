@@ -10,11 +10,11 @@ Este proyecto implementa una agenda de contactos en Python y permite comparar el
 # 📁 Estructura del proyecto
 
 -datos.py: contiene la lista de contactos (`agenda`) con 300 nombres reales únicos.
-- funciones.py: contiene las funciones:
+-funciones.py: contiene las funciones:
    ·obtener_nombre(): extrae el nombre de un contacto.
    ·busqueda_lineal(): implementa una búsqueda secuencial.
    ·busqueda_binaria(): implementa una búsqueda binaria sobre una agenda previamente ordenada.
-- TPintegrador.py: Es el archivo principal. Ordena la agenda, ejecuta las búsquedas, mide tiempos de ejecución y muestra resultados por pantalla.
+-TPintegrador.py: Es el archivo principal. Ordena la agenda, ejecuta las búsquedas, mide tiempos de ejecución y muestra resultados por pantalla.
 
 # ▶️ Cómo ejecutar
 
