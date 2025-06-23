@@ -24,12 +24,12 @@ Este proyecto implementa una agenda de contactos en Python y permite comparar el
 ```bash
 python TPintegrador.py
 
-
-Muchas gracias por tomarse el tiempo de revisar nuestro trabajo,
+## Link a video de YouTube
 
 Adjuntamos el link del video de youtube
 https://www.youtube.com/watch?v=1YljhBJQLa4
 
+Muchas gracias por tomarse el tiempo de revisar nuestro trabajo,
 Quedamos atentos a sus comentarios,
 gracias.
 
