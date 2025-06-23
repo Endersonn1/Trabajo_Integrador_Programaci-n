@@ -4,7 +4,7 @@ from datos import agenda
 from funciones import obtener_nombre, busqueda_lineal, busqueda_binaria
 
 # ----------------- MÓDULO: Aplicación principal -----------------
-def main():
+def main(): #creamos una función principal para garantizar la modularización de todo lo que podria estar suelto.
     # Importamos la libreria time
     import time
 
