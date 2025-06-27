@@ -30,7 +30,7 @@ python TPintegrador.py
 # 🎥 Link a video de YouTube
 
 Adjuntamos el link del video de youtube
-https://www.youtube.com/watch?v=1YljhBJQLa4
+https://youtu.be/1O89oXxbMUQ
 
 # 👋 Saludos
 Muchas gracias por tomarse el tiempo de revisar nuestro trabajo,
